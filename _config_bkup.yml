@@ -23,9 +23,7 @@ email: "ijkfunmath@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   これらのアプリで、楽しみながら学習の新たな扉を開いてみてください！
 baseurl: "" # the subpath of your site, e.g. /blog
-
-# 公開URLを設定（URL自動生成の正確性を高めます）
-url: "https://htojo2008.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "axljoe2001"
 github_username:  "htojo2008"
 
@@ -34,16 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# ナビゲーションの順序を明示的に指定する場合
-header_pages:
-  - index.markdown
-  - goi.markdown
-  - ijkFunMath.markdown
-  - PrivacyPolicy.markdown
-  - terms.markdown  # 追加
-  - about.markdown
-
-# 除外設定
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -65,9 +53,6 @@ header_pages:
 #   - vendor/ruby/
 exclude:
   - _history
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
 
 # Navigation links
 nav:
