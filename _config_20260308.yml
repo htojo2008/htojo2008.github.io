@@ -18,6 +18,8 @@ header_pages:
   - index.markdown
   - goi.markdown
   - ijkFunMath.markdown
+  - PrivacyPolicy.markdown
+  - terms.markdown
   - about.markdown
 
 # 除外設定
