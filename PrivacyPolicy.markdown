@@ -16,31 +16,78 @@ published: true
 
 ## プライバシーポリシー
 
-[cite_start]このページは、個人情報に関するポリシーについて知らせるためのものです。お客様がこのサービスを使用することは、このポリシーに記載された情報の収集と使用に同意したこととみなされます。収集する個人情報はサービスの提供と改善に使用されます。そしてこのプライバシーポリシーに記載されているケース以外で、当方がお客様の情報を使用または第三者に共有することはありません。 
+このページは、個人情報の収集、利用、開示に関する方針をお知らせするものです。本アプリを利用することで、本ポリシーに記載された内容に同意したものとみなされます。
 
-### 1. 情報の収集と使用
+---
 
-[cite_start]本アプリでは、Unityで開発し広告配信ツールとしてAdMob(Google Inc.)を使用しております。AdMobがご利用者の情報を自動取得する場合がございます。取得する情報、利用目的、第三者への提供等につきましては、あなたを識別するために使用される情報を収集する可能性のあるサードパーティのサービスを使用します。アプリで使用されるサードパーティのサービスプロバイダーのプライバシーポリシーへのリンクよりご確認ください。 
+## 1. 収集する情報
 
-1. [AdMob](https://policies.google.com/technologies/ads?hl=ja)
-1. [Unity](https://unity3d.com/legal/privacy-policy)
+本アプリでは、以下の情報を収集する場合があります。
 
-### 2. フォームにてご連絡・お問い合わせ等をいただいた際に、当方が取得する個人情報
-メールアドレス、氏名
-[cite_start]その他、回答するために必要な、当方がお客様から提供いただく一切の情報 
+### ● 自動的に収集される情報（Unity / AdMob）
+本アプリは Unity を用いて開発され、広告配信に Google AdMob を使用しています。これらのサービスは以下の情報を自動的に収集する場合があります。
 
-### 3. 個人情報の利用目的
-[cite_start]当方は、以上のように取得した個人情報を、以下の目的のために利用します。 
+- デバイス情報（OS、端末モデル、言語設定など）
+- IP アドレス
+- 広告識別子（AAID）
+- アプリの利用状況（起動回数、プレイ時間など）
+- クラッシュログ、パフォーマンスデータ
 
-1. お問い合わせ対応
-1. アプリサービスの提供・管理・改善
-1. 広告配信の効果測定
+これらのデータは、アプリの改善、広告配信、分析のために使用されます。
 
-### 4. このプライバシーポリシーの変更
-[cite_start]プライバシーポリシーを随時更新する場合があります。したがって、変更がある場合はこのページを定期的に確認することをお勧めします。このページに新しいプライバシーポリシーを掲載して、変更をお知らせします。これらの変更は、このページに投稿された直後に有効になります。 
+### ● お問い合わせ時に取得する情報
+- メールアドレス
+- 氏名
+- 回答に必要なその他の情報
 
-### 5. お問い合わせ
-[cite_start]このプライバシーポリシーについてご質問やご提案がありましたら、フォームにてお気軽にお問い合わせください。 
+---
+
+## 2. 情報の利用目的
+
+取得した情報は以下の目的で利用します。
+
+1. お問い合わせへの対応  
+2. アプリサービスの提供・管理・改善  
+3. 広告配信およびその効果測定  
+
+---
+
+## 3. 情報の共有先
+
+本アプリは、以下の第三者に情報を共有する場合があります。
+
+- Google（AdMob）
+- Unity Technologies（Unity Analytics / Ads）
+
+各サービスのプライバシーポリシーは以下をご確認ください。
+
+1. [AdMob](https://policies.google.com/technologies/ads?hl=ja)  
+2. [Unity](https://unity.com/legal/privacy-policy)
+
+---
+
+## 4. データの削除について
+
+ユーザーは、当方に連絡することで、保持している個人情報の削除を依頼できます。  
+削除を希望される場合は、お問い合わせフォームよりご連絡ください。
+
+---
+
+## 5. 子どものプライバシー
+
+本アプリは、13 歳未満の子どもを対象として個人情報を収集することを意図していません。
+
+---
+
+## 6. プライバシーポリシーの変更
+
+本ポリシーは必要に応じて更新される場合があります。変更後のポリシーは本ページに掲載された時点で効力を持ちます。
+
+---
+
+## 7. お問い合わせ
+
+本ポリシーに関するご質問は、お問い合わせフォームよりご連絡ください。
 
 </section>
 
@@ -50,30 +97,74 @@ published: true
 
 ## Privacy Policy
 
-This page is used to inform users regarding policies with the collection, use, and disclosure of Personal Information. If you choose to use this service, then you agree to the collection and use of information in relation to this policy. The Personal Information that is collected is used for providing and improving the service. We will not use or share your information with anyone except as described in this Privacy Policy.
+This page informs users regarding the policies on the collection, use, and disclosure of Personal Information. By using this App, you agree to the practices described in this Privacy Policy.
 
-### 1. Information Collection and Use
+---
 
-The App is developed with Unity and uses AdMob (Google Inc.) as an advertisement distribution tool. AdMob may automatically acquire user information. For the information acquired, purpose of use, and provision to third parties, we use third-party services that may collect information used to identify you. Please check the links to the privacy policies of the third-party service providers used by the App.
+## 1. Information We Collect
 
-1. [AdMob](https://policies.google.com/technologies/ads?hl=en)
-1. [Unity](https://unity3d.com/legal/privacy-policy)
+### ● Automatically Collected Information (Unity / AdMob)
+The App is developed with Unity and uses Google AdMob for advertisement distribution. These services may automatically collect:
 
-### 2. Personal Information Acquired When You Contact Us
-Email address, name
-Any other information provided by the user that is necessary for us to respond.
+- Device information (OS, model, language settings)
+- IP address
+- Advertising ID (AAID)
+- App usage data (launch count, play time)
+- Crash logs and performance data
 
-### 3. Purpose of Using Personal Information
-We use the acquired personal information for the following purposes:
+These are used for analytics, service improvement, and ad delivery.
 
-1. Responding to inquiries
-1. Providing, managing, and improving the App services
-1. Measuring the effectiveness of advertisement distribution
+### ● Information Provided When Contacting Us
+- Email address  
+- Name  
+- Any additional information necessary to respond  
 
-### 4. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+---
 
-### 5. Contact Us
-If you have any questions or suggestions about this Privacy Policy, please feel free to contact us via the form.
+## 2. Purpose of Use
+
+Collected information is used for:
+
+1. Responding to inquiries  
+1. Providing, managing, and improving the App  
+1. Measuring advertisement effectiveness  
+
+---
+
+## 3. Sharing of Information
+
+Information may be shared with:
+
+- Google (AdMob)  
+- Unity Technologies  
+
+Please review their privacy policies:
+
+1. [AdMob](https://policies.google.com/technologies/ads?hl=en)  
+1. [Unity](https://unity.com/legal/privacy-policy)
+
+---
+
+## 4. Data Deletion Requests
+
+Users may request deletion of their personal information by contacting us through the inquiry form.
+
+---
+
+## 5. Children’s Privacy
+
+The App does not knowingly collect personal information from children under the age of 13.
+
+---
+
+## 6. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Changes become effective once posted on this page.
+
+---
+
+## 7. Contact Us
+
+If you have any questions or suggestions, please contact us via the inquiry form.
 
 </section>
